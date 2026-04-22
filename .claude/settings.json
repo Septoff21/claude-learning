@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh search *)",
+      "mcp__scheduled-tasks__list_scheduled_tasks"
+    ]
+  }
+}

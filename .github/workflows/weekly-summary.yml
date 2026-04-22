@@ -1,0 +1,26 @@
+name: Weekly Summary
+
+on:
+  schedule:
+    - cron: '0 12 * * 0'    # 8pm SGT (UTC+8), Sunday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run weekly summary
+        run: python3 scripts/weekly_summary.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "claude-digest-bot"
+          git config user.email "claude-digest-bot@users.noreply.github.com"
+          git add meta/weekly-summary.md
+          git diff --staged --quiet || git commit -m "weekly: $(date -u +%Y-%m-%d)"
+          git push
