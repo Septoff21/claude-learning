@@ -17,6 +17,9 @@
 
 ## sdk-examples
 
+## youtube
+<!-- 格式：- [频道 — 标题](../notes/youtube__<id>.md) — 一句话 (⭐X/5) -->
+
 ## evals
 
 ## meta

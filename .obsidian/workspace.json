@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/_pending.md",
+                "file": "originals/npow__claude-skills/slides/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_pending"
+              "title": "SKILL"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/_pending.md",
+                "file": "originals/npow__claude-skills/slides/SKILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "_pending 的反向链接列表"
+              "title": "SKILL 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/_pending.md",
+                "file": "originals/npow__claude-skills/slides/SKILL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "_pending 的出链列表"
+              "title": "SKILL 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/_pending.md",
+                "file": "originals/npow__claude-skills/slides/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "_pending 的大纲"
+              "title": "SKILL 的大纲"
             }
           }
         ]
@@ -183,12 +183,30 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ef940ed5e9bb116a",
+  "active": "2dc1b2376361891f",
   "lastOpenFiles": [
+    "moc/by-type.md.tmp.13700.1776836461240",
+    "meta/sources.md",
+    "originals/npow__claude-skills/spec/DESIGN.md",
+    "originals/npow__claude-skills/table/SKILL.md",
+    "originals/npow__claude-skills/create-skill/FORMAT.md",
+    "originals/npow__claude-skills/create-skill/EVALUATION.md",
+    "originals/npow__claude-skills/create-skill/DESIGN.md",
+    "README.md",
+    "originals/megabytespace__claude-skills/01-operating-system/one-line-saas.md",
+    "originals/megabytespace__claude-skills/01-operating-system/autonomous-orchestrator.md",
+    "originals/megabytespace__claude-skills/01-operating-system/ai-native-coding.md",
+    "moc/by-usecase.md",
+    "notes/KirKruglov__claude-skills-kit.md",
+    "moc/by-type.md",
+    "moc/_index.md",
+    "notes/npow__claude-skills.md",
+    "meta/_rubric.md",
+    "meta/_learnings.md",
+    "inbox/urls.md",
+    "inbox/_pending.md",
     "notes/megabytespace__claude-skills.md",
     "notes/megabytespace__claude-skills.md.tmp.13700.1776835567667",
-    "notes/KirKruglov__claude-skills-kit.md",
-    "notes/npow__claude-skills.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/docs/USER-GUIDE.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/docs/USER-GUIDE.ru.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/SKILL.md",
@@ -196,31 +214,13 @@
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/README.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/docs",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker/docs/USER-GUIDE.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker/docs/USER-GUIDE.ru.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker/SKILL.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker/README.ru.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker/README.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker/docs",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review/docs/USER-GUIDE.ru.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review/docs/USER-GUIDE.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review/SKILL.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review/README.ru.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review/README.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review/docs",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review",
-    "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/templates/feedback-insights-template.md",
-    "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/docs/USER-GUIDE.md",
-    "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/docs/USER-GUIDE.ru.md",
     "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/templates",
-    "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/SKILL.md",
-    "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/README.ru.md",
-    "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/README.md",
     "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/docs",
     "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer",
-    "originals/KirKruglov__claude-skills-kit/skills/stakeholder-adapter/docs/USER-GUIDE.md",
-    "originals/KirKruglov__claude-skills-kit/skills/stakeholder-adapter/docs/USER-GUIDE.ru.md",
     "originals/megabytespace__claude-skills/logo.png"
   ]
 }
