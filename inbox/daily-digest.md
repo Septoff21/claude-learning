@@ -47,3 +47,33 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-04-22
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a) — 605pts
+- [Claude Code Removed from $20-a-Month "Pro" Subscription for New Users](https://www.wheresyoured.at/news-anthropic-removes-pro-cc/) — 75pts
+- [Anthropic bans orgs without warning](https://news.ycombinator.com/item?id=47853021) — 27pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [mal1pr1nc/wardley-map-hive](https://github.com/mal1pr1nc/wardley-map-hive) — Wardley Map skill for Claude Code, forked from tractorjuice/
+- [thinkyou0714/github-flow-kit](https://github.com/thinkyou0714/github-flow-kit) — 4 Claude Code skills for GitHub-native developers: pr-respon
+- [ampl/claude-for-ampl](https://github.com/ampl/claude-for-ampl) — Claude Skill for a Modern Workflow with AMPL and MP
+- [asets-gobizit/claude-skills](https://github.com/asets-gobizit/claude-skills) — Claude Code global skills and config
+- [Erablitek/esp32-arduino-development](https://github.com/Erablitek/esp32-arduino-development) — Claude skill for ESP32 firmware development using Arduino CL
+- [keeper-app/claude-cow](https://github.com/keeper-app/claude-cow) — A menu bar cow that moos whenever you create a new Claude sk
+
+### 📥 Inbox 处理
+- https://tw.news.yahoo.com/claude%E8%80%81%E6%98%AF%E9%81%94%E5%88%B0%E7%94%A8%E9%87%8F%E4%B8%8A%E9%99%90-4%E5%80%8B%E6%83%85%E5%A2%83-9%E5%80%8B%E6%8A%80%E5%B7%A7-%E6%95%99%E4%BD%A0%E6%9C%89%E6%95%88%E7%B8%AE%E6%B8%9Btoken-061413458.html — Claude token 使用技巧（via Telegram）
+- https://github.com/alchaincyf/huashu-design — via Telegram
+
+---
