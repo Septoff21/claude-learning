@@ -17,6 +17,7 @@ jobs:
       - name: Poll Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_OWNER_ID: ${{ secrets.TELEGRAM_OWNER_ID }}
         run: python3 scripts/telegram_inbox.py
 
       - name: Commit if new URLs

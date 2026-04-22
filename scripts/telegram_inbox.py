@@ -1,6 +1,8 @@
-#!/usr/bin/env python3"""
+#!/usr/bin/env python3
+"""
 Telegram Inbox — runs every 30min in GitHub Actions
 Polls Telegram bot for new messages, extracts URLs, appends to inbox/urls.md
+Only accepts messages from OWNER_CHAT_ID (whitelist).
 """
 
 import json
@@ -10,6 +12,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+OWNER_CHAT_ID = int(os.environ.get("TELEGRAM_OWNER_ID", "8301159127"))
 BASE = f"https://api.telegram.org/bot{BOT_TOKEN}"
 VAULT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OFFSET_FILE = os.path.join(VAULT, "inbox", ".tg_offset")
@@ -31,7 +34,10 @@ def tg(method, params=None):
 
 def load_offset():
     if os.path.exists(OFFSET_FILE):
-        return int(open(OFFSET_FILE).read().strip())
+        try:
+            return int(open(OFFSET_FILE).read().strip())
+        except:
+            return 0
     return 0
 
 
@@ -53,13 +59,13 @@ def append_to_inbox(urls, note="via Telegram"):
 def reply(chat_id, text):
     try:
         tg("sendMessage", {"chat_id": chat_id, "text": text})
-    except:
-        pass
+    except Exception as e:
+        print(f"Reply failed: {e}")
 
 
 def main():
     offset = load_offset()
-    print(f"Polling Telegram (offset={offset})")
+    print(f"Polling Telegram (offset={offset}, owner={OWNER_CHAT_ID})")
 
     result = tg("getUpdates", {"offset": offset, "timeout": 5})
     updates = result.get("result", [])
@@ -74,19 +80,23 @@ def main():
         text = msg.get("text", "") or msg.get("caption", "")
         chat_id = msg.get("chat", {}).get("id")
 
+        # Whitelist: only process messages from owner
+        if chat_id != OWNER_CHAT_ID:
+            print(f"Ignored message from unauthorized chat_id: {chat_id}")
+            continue
+
         urls = extract_urls(text)
         if urls:
             all_urls.extend(urls)
-            if chat_id:
-                reply(chat_id, f"✅ 收到 {len(urls)} 个链接，已加入 inbox")
-        elif text and chat_id:
-            reply(chat_id, "📎 发 URL 给我，我帮你加进 claude-learning inbox")
+            reply(chat_id, f"✅ 收到 {len(urls)} 个链接，已加入 inbox，晚上自动处理")
+        elif text:
+            reply(chat_id, "📎 发 URL 给我，会自动加进 claude-learning inbox")
 
     if all_urls:
         append_to_inbox(all_urls)
 
     save_offset(new_offset)
-    print(f"Done. New offset: {new_offset}")
+    print(f"Done. New offset: {new_offset}, URLs added: {len(all_urls)}")
 
 
 if __name__ == "__main__":
