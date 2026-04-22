@@ -1,0 +1,69 @@
+name: Publish Claude Manual
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'notes/**'
+      - 'moc/**'
+      - 'meta/**'
+      - 'inbox/daily-digest.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Clone Quartz
+        run: git clone --depth 1 https://github.com/jackyzha0/quartz.git _quartz
+
+      - name: Install Quartz deps
+        run: cd _quartz && npm install
+
+      - name: Copy vault content into Quartz
+        run: |
+          cp -r notes _quartz/content/notes
+          cp -r moc _quartz/content/moc
+          cp -r meta _quartz/content/meta
+          cp -r inbox _quartz/content/inbox
+          cp README.md _quartz/content/index.md
+
+      - name: Configure Quartz
+        run: |
+          sed -i 's/pageTitle: "Quartz 4"/pageTitle: "Claude Manual"/' _quartz/quartz.config.ts
+          sed -i 's|baseUrl: "quartz.jzhao.xyz"|baseUrl: "Septoff21.github.io/claude-manual"|' _quartz/quartz.config.ts
+          sed -i 's/"private", "templates", ".obsidian"/"private", "templates", ".obsidian", "originals"/' _quartz/quartz.config.ts
+
+      - name: Build
+        run: cd _quartz && npx quartz build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
