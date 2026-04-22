@@ -25,3 +25,25 @@
 - 处理了 0 条（所有条目已标 [done]）
 
 ---
+
+## 2026-04-22
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a) — 504 points
+- [Claude Code Removed from $20-a-Month "Pro" Subscription for New Users](https://www.wheresyoured.at/news-anthropic-removes-pro-cc/) — 70 points
+- [Anthropic bans orgs without warning](https://news.ycombinator.com/item?id=47853021) — 23 points
+
+### 🔧 新 Skill/Prompt repo（过去24小时有更新）
+- [esporykhin/claude-code-skills](https://github.com/esporykhin/claude-code-skills) ⭐2 — Claude Code skills for my daily usage
+- [naiplawan/disciplina](https://github.com/naiplawan/disciplina) — A Claude Code skill containing behavioral guidelines for dis
+- [Lmgsd-2024/skill-security-scan](https://github.com/Lmgsd-2024/skill-security-scan) ⭐1 — 🔍 Detect security risks in Claude Skills with this command-l
+- [jbisana/claude-skills](https://github.com/jbisana/claude-skills) — This repository serves as a modular toolkit designed to exte
+- [romaindbas/claude-code-stack](https://github.com/romaindbas/claude-code-stack) — The living bible of Claude Code tools. Every MCP, plugin, sk
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
