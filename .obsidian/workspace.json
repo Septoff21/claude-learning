@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "originals/npow__claude-skills/slides/SKILL.md",
+                "file": "meta/_rubric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "_rubric"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "originals/npow__claude-skills/slides/SKILL.md",
+                "file": "meta/_rubric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SKILL 的反向链接列表"
+              "title": "_rubric 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "originals/npow__claude-skills/slides/SKILL.md",
+                "file": "meta/_rubric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SKILL 的出链列表"
+              "title": "_rubric 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "originals/npow__claude-skills/slides/SKILL.md",
+                "file": "meta/_rubric.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SKILL 的大纲"
+              "title": "_rubric 的大纲"
             }
           }
         ]
@@ -183,8 +183,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2dc1b2376361891f",
+  "active": "ef940ed5e9bb116a",
   "lastOpenFiles": [
+    "inbox/daily-digest.md",
+    "meta/_learnings.md",
+    "inbox/urls.md",
+    "inbox/_pending.md",
+    "originals/npow__claude-skills/slides/SKILL.md",
     "moc/by-type.md.tmp.13700.1776836461240",
     "meta/sources.md",
     "originals/npow__claude-skills/spec/DESIGN.md",
@@ -202,16 +207,12 @@
     "moc/_index.md",
     "notes/npow__claude-skills.md",
     "meta/_rubric.md",
-    "meta/_learnings.md",
-    "inbox/urls.md",
-    "inbox/_pending.md",
     "notes/megabytespace__claude-skills.md",
     "notes/megabytespace__claude-skills.md.tmp.13700.1776835567667",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/docs/USER-GUIDE.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/docs/USER-GUIDE.ru.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/SKILL.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/README.ru.md",
-    "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/README.md",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer/docs",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-digest-synthesizer",
     "originals/KirKruglov__claude-skills-kit/skills/weekly-competitor-tracker/docs",
@@ -220,7 +221,6 @@
     "originals/KirKruglov__claude-skills-kit/skills/weekly-ai-workflow-review",
     "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/templates",
     "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer/docs",
-    "originals/KirKruglov__claude-skills-kit/skills/user-feedback-synthesizer",
     "originals/megabytespace__claude-skills/logo.png"
   ]
 }
