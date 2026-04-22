@@ -149,12 +149,12 @@ The `GITHUB_TOKEN` (built-in) is used for all repo write operations. No external
 - [x] GitHub Actions cloud automation (no local computer needed)
 - [x] Quartz site published to GitHub Pages
 
-### Next (v2)
-- [ ] Reddit source (r/ClaudeAI) in daily digest
-- [ ] YouTube channel monitoring (Anthropic, AI Explained)
-- [ ] Auto-ingest for quality ≥ 4 (skip manual approval)
-- [ ] Full-text search across all notes
-- [ ] `tried: true` workflow — mark skills you've actually tested
+### v2 (complete)
+- [x] Reddit source (r/ClaudeAI, r/anthropic) in daily digest
+- [x] YouTube channel monitoring (Anthropic, AI Explained, Matthew Berman)
+- [x] Auto-ingest for quality ≥ 4 (clones repo + skeleton note, no approval needed)
+- [x] Full-text search (built into Quartz site)
+- [x] `tried: true` workflow — mark via GitHub Actions → Actions → Mark as Tried
 
 ### Future (v3)
 - [ ] Visual skill map / graph view
