@@ -11,3 +11,4 @@
 ---
 
 - https://github.com/forrestchang/andrej-karpathy-skills | karpathy 风格的 Claude skills 集合 [done 2026-04-22]
+- https://github.com/alchaincyf/huashu-design [done 2026-04-22]
