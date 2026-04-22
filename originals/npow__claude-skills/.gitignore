@@ -1,0 +1,56 @@
+# Netflix-specific skills (not for public repos)
+ai-tool-catalog-cli/
+arch-navigator/
+arch-navigator.md
+debug-trace/
+debug-trace.md
+decorator-wizard/
+decorator-wizard.md
+extension-builder/
+extension-builder.md
+java-context/
+js-client-context/
+js-context/
+maestro-conditionals/
+maestro-conditionals.md
+maestro-debug/
+maestro-debug.md
+metaflow/
+metaflow-dev/
+metaflow-dev.md
+pattern-finder/
+pattern-finder.md
+python-context/
+scheduler-api/
+scheduler-api.md
+test-smart/
+test-smart.md
+DEMO.md
+
+# Symlinks managed by metaflow-agent install.sh
+add-resource
+contribute
+debug-pr
+debug-run
+
+# Local OAuth credentials — never commit
+google-workspace-setup/client_secrets.json
+
+# Netflix-internal skills hosted separately at github.netflix.net/npow/claude-skills
+mako-gpu-status
+upload-presentation
+
+# Netflix-internal skills (Kragle MCP / Netflix Data Auditor dpcli — not portable)
+data-auditor-create/
+data-auditor-validate-run/
+dbt-data-test-gen/
+dbt-unit-test-gen/
+
+# Local OMC runtime state (sessions, project memory, agent replay logs) — per-machine, auto-generated
+.omc/
+
+# Google Workspace skills — kept private
+google-*
+
+# Project CLAUDE.md — kept local, not checked into public repo
+CLAUDE.md
