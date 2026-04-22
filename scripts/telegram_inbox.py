@@ -20,9 +20,9 @@ TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 def tg(method, params=None):
     url = f"{BASE}/{method}"
     if params:
-        data = json.dumps(params).encode()
+        data = json.dumps(params, ensure_ascii=False).encode("utf-8")
         req = urllib.request.Request(url, data=data,
-                                     headers={"Content-Type": "application/json"})
+                                     headers={"Content-Type": "application/json; charset=utf-8"})
     else:
         req = urllib.request.Request(url)
     with urllib.request.urlopen(req, timeout=10) as r:
