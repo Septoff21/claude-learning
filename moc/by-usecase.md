@@ -3,6 +3,7 @@
 ## 写作 / 内容生成
 
 ## 代码 / 工程
+- [andrej-karpathy-skills](../notes/forrestchang__andrej-karpathy-skills.md) — Claude Code 编码行为基线
 
 ## 学习 / 研究
 
