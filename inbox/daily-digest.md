@@ -77,3 +77,30 @@
 - https://github.com/alchaincyf/huashu-design — via Telegram
 
 ---
+
+## 2026-04-23
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [allixsenos/claude-plugins](https://github.com/allixsenos/claude-plugins) — A collection of Agent Skills for Claude Code
+- [ManuelNevado/japanese_teacher](https://github.com/ManuelNevado/japanese_teacher) — 🎌 Japanese language school powered by Claude Code agents and
+- [abhayla/claude-best-practices](https://github.com/abhayla/claude-best-practices) ⭐1 — Reusable Claude Code best practices: skills, agents, hooks, 
+- [ImL1s/claude-skills](https://github.com/ImL1s/claude-skills) — User-installed Claude Code skills: skill-organizer (relocate
+- [AntTheLimey/gm-apprentice](https://github.com/AntTheLimey/gm-apprentice) ⭐8 — TTRPG Game Master skills for Claude
+- [fourteenwm/ppc-ai-skills](https://github.com/fourteenwm/ppc-ai-skills) ⭐17 — Collection of free PPC AI skills, ready for use with any AI 
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
