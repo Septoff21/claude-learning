@@ -104,3 +104,31 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-04-24
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge](https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a) — 92pts
+- [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) — 819pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [wan-huiyan/claude-ecosystem-hygiene](https://github.com/wan-huiyan/claude-ecosystem-hygiene) — Three complementary skills for auditing and maintaining Clau
+- [extended-yellowochre569/software_development_department](https://github.com/extended-yellowochre569/software_development_department) — Organize Claude Code into a software engineering department 
+- [SanAntonio021/agents-skills](https://github.com/SanAntonio021/agents-skills) — Personal skill library for Claude Code / Codex, distributed 
+- [Gisellesleeveless396/go-agent-skills](https://github.com/Gisellesleeveless396/go-agent-skills) — Provide Go agent skills for cleaner, idiomatic code across C
+- [acetabular-pecanpie918/cdsecurity-skills](https://github.com/acetabular-pecanpie918/cdsecurity-skills) — Streamline Claude Code security prep for Solidity and Rust s
+- [hojin12312/lecture-claude-code](https://github.com/hojin12312/lecture-claude-code) — LLM·에이전트·Claude Code 사용 팁 강의 자료 (CLAUDE.md · Hooks · Skills)
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
