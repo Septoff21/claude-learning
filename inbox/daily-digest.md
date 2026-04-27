@@ -132,3 +132,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-04-27
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [igsl1009/igsl-skills](https://github.com/igsl1009/igsl-skills) — IGSL v2 — Self-improving skill graph and memory system for C
+- [halflength-ampleness75/claude-code-recipes](https://github.com/halflength-ampleness75/claude-code-recipes) ⭐1 — Provide ready-to-use Claude Code commands, subagents, hooks,
+- [huskyyy12345/nerv-ui](https://github.com/huskyyy12345/nerv-ui) — Build web interfaces with a military sci-fi style using nerv
+- [kml93/tradingview-skills](https://github.com/kml93/tradingview-skills) — CLI and Claude Code skills for TradingView Desktop via Chrom
+- [CarlSvejstrup/inbound-cph-demo](https://github.com/CarlSvejstrup/inbound-cph-demo) — Claude Code plugin marketplace: Kunde Specialist skills for 
+- [aimatrixling-bot/pm-copilot-agent](https://github.com/aimatrixling-bot/pm-copilot-agent) — PM Copilot - Desktop AI PM Agent. 27 PM Skills + 5 Agents + 
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
