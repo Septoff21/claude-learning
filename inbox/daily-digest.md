@@ -159,3 +159,32 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-04-29
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363) — 241pts
+- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) — 137pts
+- [Anthropic's Champion Kit for engineers pushing Claude Code at their company](https://code.claude.com/docs/en/champion-kit) — 28pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) ⭐3508 — 🎨 Local-first, open-source alternative to Anthropic's Claude 🤖auto-ingest
+- [Abm32/runsight](https://github.com/Abm32/runsight) ⭐2 —  Autonomous agent that runs projects, explores them via brow
+- [asundiev-devrev/arcade-prototyper](https://github.com/asundiev-devrev/arcade-prototyper) ⭐1 — DevRev Prototyper skill for Claude Code — build interactive 
+- [humongus69/langsmith-fetch-skill](https://github.com/humongus69/langsmith-fetch-skill) — 🔍 Fetch execution traces from LangSmith Studio to debug Lang
+- [nikitanikist/business-coach](https://github.com/nikitanikist/business-coach) — Your CEO, Business Head, and Operations Head — in one Claude
+- [flatitas/OhMySkills](https://github.com/flatitas/OhMySkills) ⭐3 — 🎨 Enhance your development workflow with OhMySkills, a curat
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---

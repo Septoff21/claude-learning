@@ -14,6 +14,7 @@
 ## patterns
 
 ## tools-mcp
+- [nexu-io/open-design](../notes/nexu-io__open-design.md) — auto-ingested 🤖
 
 ## sdk-examples
 
