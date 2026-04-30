@@ -188,3 +188,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-04-30
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) — 1196pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [xwh5/claude-skills](https://github.com/xwh5/claude-skills) — Claude Code skill collection by xwh5 - blog writing, publish
+- [joehahn/portfolio-wave-rider](https://github.com/joehahn/portfolio-wave-rider) — Claude Code demo: portfolio optimization with subagents and 
+- [nduckmink/arkon](https://github.com/nduckmink/arkon) — Arkon is a platform that gives organizations centralized con
+- [ryzhakar/claude-skills](https://github.com/ryzhakar/claude-skills) ⭐2 — A marketplace of plugins for claude code.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐170740 — The agent harness performance optimization system. Skills, i 🤖auto-ingest
+- [chenhg5/agencycli](https://github.com/chenhg5/agencycli) ⭐76 — Lightweight CLI to build self-managing AI agent teams. Defin 🤖auto-ingest
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
