@@ -215,3 +215,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-01
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/) — 86pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [lugassawan/swe-workbench](https://github.com/lugassawan/swe-workbench) — Claude Code plugin — senior-engineer toolkit with Clean Arch
+- [Dbochman/dotfiles](https://github.com/Dbochman/dotfiles) ⭐1 — macOS dotfiles with extensive Claude Code customization - sh
+- [Ex-imanity/SkillCollections](https://github.com/Ex-imanity/SkillCollections) ⭐1 — 个人Claude Code Skills 集合，助力提升开发效率和内容创作
+- [oldjie/wechat-article-parser](https://github.com/oldjie/wechat-article-parser) — 解析微信公众号文章，提取核心要点和干货。适用于 Claude Code / OpenClaw Skill。
+- [stackhawk/agent-skills](https://github.com/stackhawk/agent-skills) ⭐8 — Official StackHawk skills for Claude Code. Security testing 
+- [runnerelectrode/twilight-bot](https://github.com/runnerelectrode/twilight-bot) — Twilight inverse-perp trading bot — Senpi-shaped plugin runt
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
