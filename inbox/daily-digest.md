@@ -242,3 +242,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-04
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [noahowsh/claude-sports-analytics](https://github.com/noahowsh/claude-sports-analytics) — Sports analytics skills for Claude Code. 30 skills covering 
+- [adchengzhi7/claude-skills](https://github.com/adchengzhi7/claude-skills) — Alex Dee 的 Claude Code Skill / Plugin 集合 — 第一個是 tra-receipt（
+- [kimzerokim/kzk-harness](https://github.com/kimzerokim/kzk-harness) — Workflow skill layer for Claude Code — 12 kzk-* skills for c
+- [NETivism/neticrm-claude](https://github.com/NETivism/neticrm-claude) — Claude code coding style, skills, agents
+- [fppfurtado/pragmatic-dev-toolkit](https://github.com/fppfurtado/pragmatic-dev-toolkit) — Claude Code plugin for the flat & pragmatic development work
+- [kuberly/kuberly-skills](https://github.com/kuberly/kuberly-skills) — APM-distributed agent skills for kuberly-stack infra work — 
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
