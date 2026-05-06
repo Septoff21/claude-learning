@@ -14,6 +14,7 @@
 ## patterns
 
 ## tools-mcp
+- [LerianStudio/ring](../notes/LerianStudio__ring.md) — auto-ingested 🤖
 - [chenhg5/agencycli](../notes/chenhg5__agencycli.md) — auto-ingested 🤖
 - [affaan-m/everything-claude-code](../notes/affaan-m__everything-claude-code.md) — auto-ingested 🤖
 - [nexu-io/open-design](../notes/nexu-io__open-design.md) — auto-ingested 🤖

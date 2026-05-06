@@ -269,3 +269,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-06
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [mertkaya1/mertkaya-toolkit](https://github.com/mertkaya1/mertkaya-toolkit) — Claude Code multi-agent toolkit by Mert Kaya — 35 agents + 1
+- [cyberchitta/cad-khana](https://github.com/cyberchitta/cad-khana) ⭐4 — Claude Code skill and diagnostics-first Build123d wrapper fo
+- [okahu-demos/claude-skills](https://github.com/okahu-demos/claude-skills)
+- [jlixfeld/ccforensics](https://github.com/jlixfeld/ccforensics) — Claude Code session forensics — plugin, skill, and subagent 
+- [LerianStudio/ring](https://github.com/LerianStudio/ring) ⭐182 — 89 skills and 38 specialized agents that enforce proven engi 🤖auto-ingest
+- [hhpp55782-beep/daily-video-kit](https://github.com/hhpp55782-beep/daily-video-kit) — 每日口播视频四件套生成工作流。当用户说"今日话题：XXX"、"帮我做今天的视频"、 "生成四件套"、"今天要出一期"、"
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
