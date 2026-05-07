@@ -296,3 +296,32 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-07
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Richard Dawkins concludes AI is conscious, even if it doesn't know it](https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt) — 27pts
+- [Anthropic raises Claude Code usage limits, credits new deal with SpaceX](https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/) — 22pts
+- [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex) — 485pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [AlexMili/nextcloud-skill](https://github.com/AlexMili/nextcloud-skill) — Skill to use nextcloud with your prefered agent (Hermes, Ope
+- [benstroud/lazygit-claude-commit](https://github.com/benstroud/lazygit-claude-commit) — Claude Code skill: lazygit custom command that drafts commit
+- [ibnsawad/Saudi-Regulatory-Compliance-Claude-Skill](https://github.com/ibnsawad/Saudi-Regulatory-Compliance-Claude-Skill)
+- [polarislt0710/claude-skills-hugo](https://github.com/polarislt0710/claude-skills-hugo) — Hugo's curated Claude Code skill plugins (super-personas, de
+- [m31527/OpenTeddy](https://github.com/m31527/OpenTeddy) ⭐13 — Self-growing multi-agent system: Gemma Orchestrator + Qwen E
+- [el-musleh/skill-suggest](https://github.com/el-musleh/skill-suggest) — A Claude Code skill that scans your project and suggests rel
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
