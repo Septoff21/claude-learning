@@ -325,3 +325,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-08
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) — 331pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [kclemoveki/agentic-skills-eda](https://github.com/kclemoveki/agentic-skills-eda) — Claude Code skills for reproducible EDA. Talk @ DataAr Córdo
+- [YOHSIKI/agent-config](https://github.com/YOHSIKI/agent-config) — Shared Claude Code skills
+- [froggychips/mcp-skills-vault](https://github.com/froggychips/mcp-skills-vault) — Claude Code skills for discovering, scoring, and installing 
+- [typelicious/SkillWeave](https://github.com/typelicious/SkillWeave) ⭐2 — Turn fragile mega-prompts into structured, reusable prompt s
+- [gofarrrr/lolla-skill](https://github.com/gofarrrr/lolla-skill) ⭐13 — Reasoning audit skill for Claude Code. Detects structural we
+- [loomantix/claude-platform](https://github.com/loomantix/claude-platform) — Reusable Claude Code skills, agents, and a sync engine. Apac
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
