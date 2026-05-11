@@ -352,3 +352,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-11
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [mubeda/opencode-plugin-cc](https://github.com/mubeda/opencode-plugin-cc) — Claude opencode skill
+- [le700/viral-content-skill](https://github.com/le700/viral-content-skill) — 🔥 AI-Powered Content Creation Framework for Claude Code - Tr
+- [SulikoAndSoul/claude-code-distill-skill](https://github.com/SulikoAndSoul/claude-code-distill-skill)
+- [aslam-devloper/jokers-skill.for-claude](https://github.com/aslam-devloper/jokers-skill.for-claude) — its a skill that is capabale of making making ai agnets more
+- [sanctuarycomputer/adhd](https://github.com/sanctuarycomputer/adhd) — Claude Code skills for slop-free unidirectional Figma ←→ Tai
+- [gener8v/gener8v.claude-skills.replit-divorce](https://github.com/gener8v/gener8v.claude-skills.replit-divorce) — Claude Code skills for migrating Replit-origin projects to p
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
