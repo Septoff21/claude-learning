@@ -379,3 +379,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-12
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [MomoFadaly/visual-style](https://github.com/MomoFadaly/visual-style) — Claude skill — portable visual design systems via visual-sty
+- [MomoFadaly/pexels](https://github.com/MomoFadaly/pexels) — Claude skill — search and retrieve stock photos from the Pex
+- [MomoFadaly/design-critique](https://github.com/MomoFadaly/design-critique) — Claude skill — score a UI screenshot across 10 design dimens
+- [MomoFadaly/video-gen](https://github.com/MomoFadaly/video-gen) — Claude skill — generate AI video from text or images via fal
+- [ana1337x/pmm-launch-skills](https://github.com/ana1337x/pmm-launch-skills) — 18 Claude Code skills that manage a product launch end-to-en
+- [sarkisova-creator/tender-research-claude-skill](https://github.com/sarkisova-creator/tender-research-claude-skill) — Use this skill whenever you want to research, find, analyze,
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
