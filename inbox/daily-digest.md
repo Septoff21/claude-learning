@@ -406,3 +406,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-13
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai) — 55pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [dejvoch-cze/grpn-itops](https://github.com/dejvoch-cze/grpn-itops) — Groupon IT Ops shared repo with Claude skills
+- [neoromantic/ornament-skill](https://github.com/neoromantic/ornament-skill) — Claude Code skill for the Ornament Health API: read profiles
+- [rauleburro/skills](https://github.com/rauleburro/skills) — Personal collection of agent skills for Claude Code and the 
+- [wirenboard/wb-ai-skills](https://github.com/wirenboard/wb-ai-skills) — Talk to Wiren Board controllers from Claude Code or opencode
+- [Jallen64/python-code-review-skill](https://github.com/Jallen64/python-code-review-skill) — Claude Code skill for reviewing Python code, planning refact
+- [coldridj/claude-tools](https://github.com/coldridj/claude-tools) — experimenting with claude guard rails and skills
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
