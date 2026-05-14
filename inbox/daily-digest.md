@@ -433,3 +433,31 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-14
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) — 428pts
+- [Claude Account Suspended Seconds After Purchase?](https://news.ycombinator.com/item?id=48134808) — 66pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [kentunderage549/cc-harness-skills](https://github.com/kentunderage549/cc-harness-skills) — Package portable CC coding-agent skills for Claude Code, Cod
+- [aliyanfauzi361-create/skillify-skill](https://github.com/aliyanfauzi361-create/skillify-skill) — Capture a session as a reusable agentskills.io skill file fo
+- [daviaq7176/claude-senior-engineer-skills](https://github.com/daviaq7176/claude-senior-engineer-skills) ⭐2 — Build Claude senior engineer skills for debugging, refactori
+- [threeseeded-sistinechapel521/claude-code-workflow-notes](https://github.com/threeseeded-sistinechapel521/claude-code-workflow-notes) — Explore Claude Code workflow notes, plugin patterns, and mul
+- [AlexLiu0130/ibkr-options-assistant](https://github.com/AlexLiu0130/ibkr-options-assistant) ⭐1 — AI-powered options trading assistant for Interactive Brokers
+- [christianaotic595/nothing-design-skill](https://github.com/christianaotic595/nothing-design-skill) — Create a Nothing-inspired design skill for Claude Code with 
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
