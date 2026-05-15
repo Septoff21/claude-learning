@@ -461,3 +461,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-15
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- [Claude for Legal](https://github.com/anthropics/claude-for-legal) — 150pts
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [McBrideMusings/claude-config](https://github.com/McBrideMusings/claude-config) — My personal claude skills
+- [jonslimak/omgskills](https://github.com/jonslimak/omgskills) ⭐1 — Search for Claude & Codex skills from your macOS menu-bar
+- [hitunes/systemic-typescript-skill](https://github.com/hitunes/systemic-typescript-skill) — Claude Code skill: write TS/JS that scales from script to sy
+- [borissamsonov77/gdrive-upload-skill](https://github.com/borissamsonov77/gdrive-upload-skill) — Google Drive upload toolkit with Claude Code skill
+- [hongphuc5497/skills](https://github.com/hongphuc5497/skills) ⭐1 — Curated agent skills for Hermes, Claude Code, Codex and more
+- [AdrianV101/PretextPlugin](https://github.com/AdrianV101/PretextPlugin) — Deep pretext library knowledge for Claude — skills, MCP tool
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
