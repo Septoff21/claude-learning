@@ -488,3 +488,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-18
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [nguyenthuhien-web/claude-skills-seongon](https://github.com/nguyenthuhien-web/claude-skills-seongon) — 3 Claude Code skills cho content SEO
+- [kk-machinify/claude-config](https://github.com/kk-machinify/claude-config) — Personal Claude Code config: skills, agents, settings (WIP)
+- [zbynekdrlik/airuleset](https://github.com/zbynekdrlik/airuleset) ⭐1 — Claude Code configuration management — centralized rules, sk
+- [chrismccoy/skills](https://github.com/chrismccoy/skills) ⭐1 — Claude Code plugin marketplace — WordPress theme converter +
+- [arbelamram/claude-code-reviewer](https://github.com/arbelamram/claude-code-reviewer) — AI-powered code reviewer skill for GitHub PRs using Claude
+- [livlign/claude-skills-pitfalls](https://github.com/livlign/claude-skills-pitfalls) ⭐1 — Things that silently break your Claude skill, and how to fix
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
