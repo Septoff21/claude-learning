@@ -515,3 +515,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-19
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [joaquinrivero/review-agent-instructions](https://github.com/joaquinrivero/review-agent-instructions) — Skill: audit, improve, or bootstrap CLAUDE.md / AGENTS.md / 
+- [andiupn/claude-code-starter](https://github.com/andiupn/claude-code-starter) — Claude Code starter template — 3 agents, 6 skills, 1 stack p
+- [chandaltesticular328/claude-config-editor](https://github.com/chandaltesticular328/claude-config-editor) — Edit Claude Code config files with a web GUI for hooks, agen
+- [agentskillexchange/skills](https://github.com/agentskillexchange/skills) ⭐9 — The open catalog of AI agent skills — 2,000+ security-scanne
+- [Nikkiunitary185/autoimprove-cc](https://github.com/Nikkiunitary185/autoimprove-cc) ⭐1 — Automate Claude Code SKILL.md improvement with agent-driven 
+- [Pear-Commerce/pear-ai-skills](https://github.com/Pear-Commerce/pear-ai-skills) — Canonical Pear-authored Codex and Claude skills
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
