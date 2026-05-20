@@ -542,3 +542,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-20
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [daniel-nelson/pln](https://github.com/daniel-nelson/pln) — Claude Code skill for human-paced planning — one question at
+- [Pear-Commerce/pear-ai-skills](https://github.com/Pear-Commerce/pear-ai-skills) — Canonical Pear-authored Codex and Claude skills
+- [seotechcad/Skill-Claude-Code-Farmacias-APP-V1](https://github.com/seotechcad/Skill-Claude-Code-Farmacias-APP-V1) — Repositório de teste para usar GitHub Codespaces e Claude Co
+- [knowledge-dna/kdna-skills](https://github.com/knowledge-dna/kdna-skills) ⭐1 — Install KDNA skills for any AI agent: Claude Code, Codex, Op
+- [linjirong0-coder/logo-skill](https://github.com/linjirong0-coder/logo-skill) — 图片去背景转SVG的Claude Code skill
+- [cuinschang-lgtm/skillhub](https://github.com/cuinschang-lgtm/skillhub) — Claude Code v2.1.88 Source Code
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
