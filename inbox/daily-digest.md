@@ -569,3 +569,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-21
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) ⭐38256 — Installable GitHub library of 1,400+ agentic skills for Clau 🤖auto-ingest
+- [bradploch/audience-intel-scan](https://github.com/bradploch/audience-intel-scan) — Claude Code skill: weekly audience intelligence scan for a D
+- [Krish12Savaliya10/NeuralNest-AI-Internship](https://github.com/Krish12Savaliya10/NeuralNest-AI-Internship) — AI-assisted internship preparation workflow using Claude for
+- [hanzhcn/laohan-skills](https://github.com/hanzhcn/laohan-skills) ⭐2 — AI 内容创作者的瑞士军刀 —— 13 个 Claude Code / OpenClaw 技能，覆盖内容获取、创作、校准
+- [sg2andrea/claude-note-app-skills](https://github.com/sg2andrea/claude-note-app-skills) — Claude Code skills extracted from real Writer/Coding Blog/Bo
+- [McBrideMusings/claude-config](https://github.com/McBrideMusings/claude-config) — My personal claude skills
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---

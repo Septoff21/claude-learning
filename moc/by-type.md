@@ -14,6 +14,7 @@
 ## patterns
 
 ## tools-mcp
+- [sickn33/antigravity-awesome-skills](../notes/sickn33__antigravity-awesome-skills.md) — auto-ingested 🤖
 - [LerianStudio/ring](../notes/LerianStudio__ring.md) — auto-ingested 🤖
 - [chenhg5/agencycli](../notes/chenhg5__agencycli.md) — auto-ingested 🤖
 - [affaan-m/everything-claude-code](../notes/affaan-m__everything-claude-code.md) — auto-ingested 🤖
