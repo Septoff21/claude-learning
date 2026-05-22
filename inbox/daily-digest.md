@@ -596,3 +596,30 @@
 - inbox 无待处理链接
 
 ---
+
+## 2026-05-22
+
+### 📰 Claude 最新消息（过去24小时）
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 💡 HN 讨论（过去24小时）
+- 无
+
+### 🟠 Reddit（过去24小时）
+- 无
+
+### 📺 YouTube（过去24小时）
+- 无
+
+### 🔧 新 Skill/Prompt repo（过去24小时）
+- [maeve-ferguson-consulting/katie-spencer](https://github.com/maeve-ferguson-consulting/katie-spencer) — Claude Code skills plugin for Katie Spencer / Zipline Consul
+- [qiunai/codex-claude-collaboration-skill](https://github.com/qiunai/codex-claude-collaboration-skill) — Portable Codex-Claude collaboration skill for evidence-first
+- [javimosch/a2a-skill](https://github.com/javimosch/a2a-skill) — Peer-to-peer messaging skill for agentic CLI sessions (claud
+- [FuzzyKala/cc-templates](https://github.com/FuzzyKala/cc-templates) ⭐1 — Multi-CLI (Claude Code + Codex + Gemini) project bootstrap w
+- [FrankLedo/claude-skills](https://github.com/FrankLedo/claude-skills) ⭐1 — Claude Code skills collection
+- [wayneliuq/claude-skills](https://github.com/wayneliuq/claude-skills) — Personal Claude Code skills and plugins
+
+### 📥 Inbox 处理
+- inbox 无待处理链接
+
+---
