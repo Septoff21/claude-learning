@@ -31,3 +31,33 @@
 
 1. **实际试用 4 个 repo 中的精选 skill**：npow 的 `autopilot`、KirKruglov 的 `context-builder-cowork`、karpathy-skills 的 CLAUDE.md——都还未 tried，试过才知道哪个真好用。
 2. **triage inbox URL**：处理 `alchaincyf/huashu-design`，看是否值得 ingest 进 notes。
+
+## 周报 2026-W21（2026-05-17 至 2026-05-24）
+
+### 本周 ingest 了什么
+- antigravity-awesome-skills
+- KirKruglov/claude-skills-kit
+- agencycli
+- open-design
+- everything-claude-code
+- megabytespace/claude-skills
+- andrej-karpathy-skills
+- npow/claude-skills
+- ring
+
+### 本周 Claude 大事
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+
+### 本周値得看的讨论
+- 无
+
+### 新发现的 Skill/Repo
+- [nguyenthuhien-web/claude-skills-seongon](https://github.com/nguyenthuhien-web/claude-skills-seongon) — 3 Claude Code skills cho content SEO
+- [kk-machinify/claude-config](https://github.com/kk-machinify/claude-config) — Personal Claude Code config: skills, agents, settings (WIP)
+- [zbynekdrlik/airuleset](https://github.com/zbynekdrlik/airuleset) ⭐1 — Claude Code configuration management — centralized rules, sk
+- [chrismccoy/skills](https://github.com/chrismccoy/skills) ⭐1 — Claude Code plugin marketplace — WordPress theme converter +
+- [arbelamram/claude-code-reviewer](https://github.com/arbelamram/claude-code-reviewer) — AI-powered code reviewer skill for GitHub PRs using Claude
+
+*本周共 5 天有摘要，ingest 了 9 份笔记*
+
+---
